@@ -6,9 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Biggest Birds</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css">
+  
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="style.css">
   </head>
   <body class="body">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -70,7 +71,7 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
-            <a href="supplies.php"><img src="img/backgroundhome.jpg" class="d-block w-100" alt="..."></a>
+            <a href="supplies.php"><img src="backgroundhome.jpg" class="d-block w-100" alt="..."></a>
             <div class="carousel-caption d-none d-md-block">
               <h1 class="darkblue">Find the supplies for your biggest or smallest birds</h1
                 >
@@ -81,7 +82,7 @@
 
 
           <div class="carousel-item" data-bs-interval="2000">
-           <a href="bird.php"> <img src="img/carousel3.jpg" class="d-block w-100" alt="..."></a>
+           <a href="bird.php"> <img src="carousel3.jpg" class="d-block w-100" alt="..."></a>
             <div class="carousel-caption d-none d-md-block">
               <h1 class="darkblue">Birds for Sale</h1>
               <h4 class="darkblue">Come find your perfect friend on our Bird Page, from distant and close regions and many colors</h4>
@@ -92,7 +93,7 @@
 
 
       <div class="carousel-item" data-bs-interval="2000">
-        <a href="food.php"> <img src="img/carousel4.jpg" class="d-block w-100" alt="..."></a>
+        <a href="food.php"> <img src="img/baldeagle.jpg" class="d-block w-100" alt="..."></a>
          <div class="carousel-caption d-none d-md-block">
            <h1 class="darkblue">Find your high quality foods for you bird companions</h1>
            <h4 class="darkblue">This food will be very good for your birds health with permium protien and lots of nutrients </h4>
